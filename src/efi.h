@@ -24,3 +24,4 @@ typedef struct {
     EFI_HANDLE                       ConsoleOutHandle;
     EFI_SIMPLE_TEXT_OUTPUT_PROTOCOL  *ConOut;
 } EFI_SYSTEM_TABLE;
+
